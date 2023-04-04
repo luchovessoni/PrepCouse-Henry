@@ -1,2 +1,1 @@
-# PrepCouse-Henry
-hola solo es una repositorio de prueba
+este es una preba de como clonar de escritorio a git 
